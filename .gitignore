@@ -1,0 +1,8 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+.DS_Store
+Thumbs.db
+# 论文 PDF 只放在 D 盘那份，不进 git、不同步回容器
+pdfs/
